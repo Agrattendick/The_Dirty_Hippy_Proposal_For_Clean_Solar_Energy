@@ -3,10 +3,10 @@
 ## Description
 This project uses Google's [Project Sunroof](https://www.google.com/get/sunroof) data to examine the costs and benefits solar panel installation on individual homes. Right now roofs keep us dry and protect us from the elements. Can they do more? (The null hypothisis is no. Current Panels are too expensive and not efficient enough to provide a benefit.)
 
-![sun](Images/sun.jpg)
+![sun](Images/Sun.jpg)
 
 ## Possible Complications
-Google provides some wonderful data, and this report relies heavily on their datasets. Their outlook is bright, however in some ways their datasets are incomplete. For example their sunny disposition shines through in their yearly_sunlight_kwh_kw_threshold_avg computation. Google assumes a loss of 25% of sunlight over a year. Using the Open Weather Map API, this information is replaced with a more accurate figure by area. Southern California may lose less than 25% while New Jersey weather might consume more.
+Google provides some wonderful data, and this report relies heavily on their datasets. Their outlook is bright, however in some ways their datasets are incomplete. For example tSheir sunny disposition shines through in their yearly_sunlight_kwh_kw_threshold_avg computation. Google assumes a loss of 25% of sunlight over a year. Using the Open Weather Map API, this information is replaced with a more accurate figure by area. Southern California may lose less than 25% while New Jersey weather might consume more.
 
 Another issue is existing power plants. More importantly the type of existing plants. If the main power source for a house is a coal plant, solar panels on a personal residence might provide a benefit. If the power plant uses nuclear or renewable sources for energy there is no carbon offset. This project will look at the amount of power produced by each energy source on a state level, and factor that into the possible benefits for home based solar panels.
 
