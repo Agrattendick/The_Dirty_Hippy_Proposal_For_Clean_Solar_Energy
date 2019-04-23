@@ -30,3 +30,6 @@ Another issue is existing power plants. More importantly the type of existing pl
 * How does a community benefit from personal solar panels for homeowners?
     * How much carbon offset is provided by solar cells?
     * How much power is currently provided by fossil fuels?
+
+# GitHub Link
+[GitHub](https://github.com/Agrattendick/The_Dirty_Hippy_Proposal_For_Clean_Solar_Energy)
