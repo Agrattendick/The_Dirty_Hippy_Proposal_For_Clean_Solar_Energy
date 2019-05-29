@@ -24,6 +24,12 @@ Another issue is existing power plants. More importantly the type of existing pl
     * Ammount of electricity from fossil fuels, nuclear power, and renewable energy by state.
     * [eGRID Summary Tables](https://www.epa.gov/energy/egrid-summary-tables)
 
+* State Information  
+    * State Landmass.  
+    * [United States Summary: 2010, Population and Housing Unit Counts, 2010 Cenus of Population and Housing via Wikipedia](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_area)  
+    * State Populations  
+    * [Table 1. Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico: April 1, 2010 to July 1, 2018 (NST-EST2018-01) via Wikipedia](https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States_by_population)
+
 ## 3 - 5 Initial Research Questions:
 * Are personal solar panels a benefit for homeowners?
     * what is the financial benefit of solar power v. cost of installation?
