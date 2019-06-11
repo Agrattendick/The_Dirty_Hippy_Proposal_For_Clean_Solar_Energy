@@ -22,7 +22,9 @@ Another issue is existing power plants. More importantly the type of existing pl
 
 * Power Production Excel:
     * Ammount of electricity from fossil fuels, nuclear power, and renewable energy by state.
-    * [eGRID Summary Tables](https://www.epa.gov/energy/egrid-summary-tables)
+    * [eGRID Summary Tables](https://www.epa.gov/energy/egrid-summary-tables)  
+    * Ammount of CO2 produced by various power sources.
+    * [How much carbon dioxide is produced when different fuels are burned?](https://www.eia.gov/tools/faqs/faq.php?id=73&t=11)
 
 * State Information  
     * State Landmass.  
