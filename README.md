@@ -45,5 +45,10 @@ Another issue is existing power plants. More importantly the type of existing pl
 * How big is the carbon offset?
     * Is the carbon offset reason enough to switch over to solar power? Should the government subsidize insalation for that reason?
 
+## Progress
+The bar graphs showing carbon offset came out great.
+
+Actually plotting the scatter plots of carbon offset by landmass raised new questions. Landmass isn't as great as originally thought. There's variation in population density. That was considered, and more scatter plots were to show this adjucting for pop density. Current thoughts lay around the roof counts in the Project Sunroof dataset.
+
 # GitHub Link
 [GitHub](https://github.com/Agrattendick/The_Dirty_Hippy_Proposal_For_Clean_Solar_Energy)
