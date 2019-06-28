@@ -31,6 +31,8 @@ Another issue is existing power plants. More importantly the type of existing pl
     * [United States Summary: 2010, Population and Housing Unit Counts, 2010 Cenus of Population and Housing via Wikipedia](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_area)  
     * State Populations  
     * [Table 1. Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico: April 1, 2010 to July 1, 2018 (NST-EST2018-01) via Wikipedia](https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States_by_population)
+    * State Power Consumption
+    * Need to find information on how much power each state uses.
 
 ## 3 - 5 Initial Research Questions:
 * Are personal solar panels a benefit for homeowners?
@@ -48,7 +50,11 @@ Another issue is existing power plants. More importantly the type of existing pl
 ## Progress
 The bar graphs showing carbon offset came out great.
 
-Actually plotting the scatter plots of carbon offset by landmass raised new questions. Landmass isn't as great as originally thought. There's variation in population density. That was considered, and more scatter plots were to show this adjucting for pop density. Current thoughts lay around the roof counts in the Project Sunroof dataset.
+Actually plotting the scatter plots of carbon offset by landmass raised new questions. Landmass isn't as great as originally thought. There's variation in population density. That was considered, and more scatter plots were to show this adjucting for pop density. Current thoughts lay around the roof counts in the Project Sunroof dataset.  
+  
+The scatter plot for adjusted carbon offset by state population looks fine. Want to work on a residual plot, and added a power consumption by state population scatter plot to the to-do list.
+
+The work currently revolves much more around carbon offset than financial benefits. Perhaps financial benefits isn't all that important, and if there isn't much of a benefit Google's project solar should look to states to subsidize the cost in an effort to become more carbon friendly? It'd also help states become carbon neutral for international agreements. (It's something to look into, but also project creep?)
 
 # GitHub Link
 [GitHub](https://github.com/Agrattendick/The_Dirty_Hippy_Proposal_For_Clean_Solar_Energy)
